@@ -16,15 +16,42 @@ BridgePort Brewing,Portland,Old Knucklehead 1999,?,?,?,?
 BridgePort Brewing,Portland,Old Knucklehead 2000,9.1%,?,?,?
 BridgePort Brewing,Portland,Old Knucklehead 2003,9.1%,?,?,?
 BridgePort Brewing,Portland,Porter,?,?,?,irish_ale|porter
-Caldera Brewing,Ashland,Ashland Amber,5.5%,?,?,north_american_ale|american_style_amber_red_ale
-Caldera Brewing,Ashland,Caldera IPA,6.1%,?,?,north_american_ale|american_style_india_pale_ale
-Caldera Brewing,Ashland,Dark Lager,6.1%,?,?,north_american_lager|american_style_lager
-Caldera Brewing,Ashland,Dry Hop Orange,5.4%,?,?,?
-Caldera Brewing,Ashland,Dry Hop Red,5.7%,?,?,?
-Caldera Brewing,Ashland,Hopportunity Knocks Ale,6.8%,?,?,north_american_ale|american_style_india_pale_ale
-Caldera Brewing,Ashland,Pale Ale,5.4%,?,?,north_american_ale|american_style_pale_ale
-Caldera Brewing,Ashland,Pilot Rock Porter,6%,?,?,irish_ale|porter
-Caldera Brewing,Ashland,Pilsener Bier,5%,?,?,german_lager|german_style_pilsener
+Caldera Brewing,Ashland,Lawnmower Lager,3.9%,16,3,american_style_light_lager
+Caldera Brewing,Ashland,Pilsener Bier,5.2%,33,4,german_style_pilsener
+Caldera Brewing,Ashland,Pale Ale,5.5%,55,5,west_coast_style_pale_ale
+Caldera Brewing,Ashland,Dry Hope Orange,5.2%,80,9,session_ipa
+Caldera Brewing,Ashland,IPA,6.1%,94,10,american_style_india_pale_ale
+Caldera Brewing,Ashland,Hopportunity Knocks IPA,5.2%,80,9,india_pale_ale
+Caldera Brewing,Ashland,Hop Hash IPA,6.5%,100,12,india_pale_ale
+Caldera Brewing,Ashland,Grapefruit IPA,6.6%,82,9,american_style_india_pale_ale
+Caldera Brewing,Ashland,Repeater Repeater IPA,7.8%,100,16,double_india_pale_ale
+Caldera Brewing,Ashland,Double Red EyePA,8.0%,100,17,double_red_india_pale_ale
+Caldera Brewing,Ashland,Ashland Amber,5.6%,24,11,american_amber_ale
+Caldera Brewing,Ashland,Dark Lager,6.0%,29,22,german_style_dunkel_lager
+Caldera Brewing,Ashland,Rauch Ur Bock,7.4%,23,22,germal_style_bock_lager
+Caldera Brewing,Ashland,Vas Deferens Belgian Dark,8.1%,26,35,belgian_style_strong_dark_ale
+Caldera Brewing,Ashland,Pilot Rock Porter,6.0%,27,43,porter
+Caldera Brewing,Ashland,Mogli Burbon Oak-Aged Chocolate Imperial Porter,8.5%,55,55,imperial_chocolate_porter
+Caldera Brewing,Ashland,Old Growth Imperial Stout,8.8%,100,56,imperial_stout
+Caldera Brewing,Ashland,Helles Lager,5.6%,17,5,german_style_light_lager
+Caldera Brewing,Ashland,Rose Petal Imperial Golden Ale,7.5%,16,5,imperial_golden_ale
+Caldera Brewing,Ashland,Ginger Beer,4.7%,19,3,golden_ale
+Caldera Brewing,Ashland,Hibiscus Ginger Beer,4.7%,19,20,golden_ale
+Caldera Brewing,Ashland,Vanilla Wheat,4.8%,20,4,crystal_weiss
+Caldera Brewing,Ashland,Toasted Coconut Chocolate Porter,6.2%,24,42,chocolate_porter
+Caldera Brewing,Ashland,South Side Strong,7.2%,64,22,pacific_north_west_style_strong_ale
+Caldera Brewing,Ashland,Oatmeal Stout,7.0%,58,52,stout
+Caldera Brewing,Ashland,Kihei Snow,7.5%,42,50,stout
+Caldera Brewing,Ashland,Roasted Hatch Chili,5.5%,35,18,golden_ale
+Caldera Brewing,Ashland,Kolsch,5.3%,24,4,german_style_ale
+Caldera Brewing,Ashland,Belgian-Style Dubbel,7.5%,20,20,belgian_style_ale
+Caldera Brewing,Ashland,Belgian-Style Wit,4.3%,17,4,belgian_style_white_ale
+Caldera Brewing,Ashland,Berliner Weisse,3.9%,2,3,weiss
+Caldera Brewing,Ashland,Double Hemp Brown,8.0%,23,26,american_style_brown_ale
+Caldera Brewing,Ashland,Dry Hop Red,5.7%,100,19,pacific_north_west_style_red_ale
+Caldera Brewing,Ashland,No Grain, No Pain,5.4%,0,4,gluten_free_beer
+Caldera Brewing,Ashland,Big Island Caldera Red Sea,9.0%,50,18,imperial_red_ale
+Caldera Brewing,Ashland,Mother Pucker Raspberry Sour,6.0%,18,20,sour_beer
 Deschutes Brewery,Bend,Bachelor Bitter,5.4%,?,?,british_ale|ordinary_bitter
 Deschutes Brewery,Bend,Bachelor ESB,5.3%,?,?,british_ale|extra_special_bitter
 Deschutes Brewery,Bend,Black Butte Porter,5.2%,?,?,irish_ale|porter
